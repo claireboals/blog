@@ -1,17 +1,17 @@
 baseurl = "/"
-title = "My blog"
+title = "Claire Boals"
 theme = "ghostwriter"
 
 [Params]
     mainSections = ["post"]
     intro = true
-    headline = "My headline"
-    description = "My description"
-    github = "https://github.com/XXX"
+    headline = "My blog"
+    description = "A place where I can ramble freely."
+    github = "https://github.com/claireboals"
     twitter = "https://twitter.com/XXX"
-    email = "XXX@example.com"
+    email = "claireboals@gmail.com"
     opengraph = true
-    shareTwitter = true
+    shareTwitter = false
     dateFormat = "Mon, Jan 2, 2006"
 
 [Permalinks]
