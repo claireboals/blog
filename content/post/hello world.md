@@ -1,3 +1,15 @@
++++
+title = "hello world"
+description = "A small introduction."
+tags = [
+    "introduction",
+    "blabla",
+    "development",
+]
+date = 02/22/2021
+author = "Claire Boals"
++++
+
 # hello world
 
 Created: Feb 22, 2021 2:17 PM
