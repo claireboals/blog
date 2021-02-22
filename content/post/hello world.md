@@ -1,4 +1,14 @@
-
++++
+title = "hello world"
+description = "A small introduction."
+tags = [
+    "introduction",
+    "blabla",
+    "development",
+]
+date = "2021-02-22"
+author = "Claire Boals"
++++
 
 # hello world
 
