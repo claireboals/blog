@@ -1,9 +1,7 @@
-baseURL = "/"
+baseURL = "https://example.com"
 languageCode = "en-us"
-title = "Claire Boals"
-theme = "archie"
-ignoreErrors = ["error-remote-getjson"]
-
+title = "Archie"
+theme="archie"
 copyright = "© Athul"
 pygmentsstyle = "monokai"
 pygmentscodefences = true
@@ -11,23 +9,22 @@ pygmentscodefencesguesssyntax = true
 [params]
 	mode="auto"
 	useCDN=false
-	subtitle = "A place for me to ramble freely."
+	subtitle = "Minimal and Clean [blog theme for Hugo](https://github.com/athul/archie)"
 
 [[params.social]]
 name = "GitHub"
 icon = "github"
-url = "https://github.com/claireboals"
+url = "https://github.com/athul/archie"
 
 [[params.social]]
-name = "LinkedIn"
-icon = "linkedin"
-url = "https://www.linkedin.com/in/claireboals/"
+name = "Twitter"
+icon = "twitter"
+url = "https://github.com/athulcajay/"
 
 [[params.social]]
-name = "E-mail"
-icon = "mail"
-url = "mailto:claireboals@gmail.com"
-
+name = "GitLab"
+icon = "gitlab"
+url = "https://gitlab.com/athul/"
 [[menu.main]]
 name = "Home"
 url = "/"
