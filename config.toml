@@ -12,6 +12,7 @@ pygmentscodefencesguesssyntax = true
 	mode="auto"
 	useCDN=false
 	subtitle = "A place for me to ramble freely."
+	favicon = "/favicon.ico"
 
 [[params.social]]
 name = "GitHub"
