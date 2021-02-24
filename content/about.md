@@ -21,15 +21,15 @@ web development, as you may find by reading some of my blog posts.
 
 My non-programming related hobbies include playing video games, spending time with my pets, singing and playing guitar, and writing. 😊
 
-{{% center %}}
+{{% centeritems %}}
 
 | Language      | Skill level |
 | ----------- | -----------                |
 | Java        | 🟣🟣🟣🟣🟣🟣⚫⚫       |
 | C           | 🟣🟣🟣🟣🟣🟣⚫⚫       |
-| C++         | 🟣🟣🟣🟣⚫⚫⚫⚫       |
+| C++         | 🟣🟣🟣🟣🟣⚫⚫⚫       |
 | JavaScript  | 🟣🟣🟣🟣⚫⚫⚫⚫       |
 | Python      | 🟣🟣🟣🟣⚫⚫⚫⚫       |
 
 
-{{% /center %}}
+{{% /centeritems %}}
