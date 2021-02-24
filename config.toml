@@ -4,7 +4,7 @@ title = "Claire Boals"
 theme = "archie"
 ignoreErrors = ["error-remote-getjson"]
 
-copyright = "© Athul"
+ copyright = "© Claire Boals"
 pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
