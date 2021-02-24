@@ -1,5 +1,5 @@
 +++
-title = "hello world"
+title = "HelloWorld"
 description = "A small introduction."
 tags = [
     "introduction",
@@ -9,10 +9,6 @@ tags = [
 date = "2021-02-22" 
 author = "Claire Boals"
 +++
-
-# hello world
-
-Created: Feb 22, 2021 2:17 PM
 
 Hi, my name is Claire, and I decided to make this blog because the Hugo platform seemed simple, intuitive, and fun. I also want to share the projects I'm working on and the things I'm learning, like algorithms or even ways of dealing with ADHD. 
 
