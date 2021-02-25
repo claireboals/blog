@@ -12,7 +12,7 @@ author = "Claire Boals"
 
 {{% /center %}}
 
-My name is Claire Boals. I graduated from Tufts University in 2020 with a B.S. in Computer Science. I've loved learning for my whole life,
+I graduated from Tufts University in 2020 with a B.S. in Computer Science. I've loved learning for my whole life,
 and when I discovered programming in college, I fell in love with its constant learning cycle. 
 
 I've completed many projects in C, C++, and Java. I have also completed web development projects using JavaScript, React, and Node.js. In my own
